@@ -1,2 +1,2 @@
 # ClassicoyModerno
-primer repositorio de estae sitio web
+primer repositorio de este sitio web
