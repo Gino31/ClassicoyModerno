@@ -225,14 +225,14 @@ body {
         }
     }
 
-    /* .contenedor {
+   .contenedor {
         grid-template-areas: "header"
             "nav"
             "content"
             "content"
             "widgets"
             "footer";
-    } */
+    } 
 
     .content img {
         margin: 2em;
